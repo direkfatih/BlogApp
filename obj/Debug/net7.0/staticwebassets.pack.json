@@ -17,6 +17,18 @@
       "PackagePath": "staticwebassets\\img\\3.jpg"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\BlogApp-main\\wwwroot\\img\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\BlogApp-main\\wwwroot\\img\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\BlogApp-main\\wwwroot\\img\\p3.jpeg",
+      "PackagePath": "staticwebassets\\img\\p3.jpeg"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\BlogApp-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.svg"
     },
